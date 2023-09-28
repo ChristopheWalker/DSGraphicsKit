@@ -1,4 +1,4 @@
-# DSGraphicsKit
+#!DSGraphicsKit
 
 Utilities for common and advanced graphics operations.
 
@@ -23,7 +23,7 @@ Use [CocoaPods](https://github.com/CocoaPods/CocoaPods):
 
 ## Usage
 
-[![](https://github.com/Discontinuity-srl/DSGraphicsKit/raw/master/README/Screenshots.png)](https://github.com/Discontinuity-srl/DSGraphicsKit/raw/master/README/Screenshots.png)
+[ [](https://github.com/Discontinuity-srl/DSGraphicsKit/raw/master/README/Screenshots.png)](https://github.com/Discontinuity-srl/DSGraphicsKit/raw/master/README/Screenshots.png)
 
 #### Rotating and adding a reflection to a view:
 
@@ -55,3 +55,4 @@ Use [CocoaPods](https://github.com/CocoaPods/CocoaPods):
 
     UIView *view;
     [view.layer addPopUpAnimation];
+ 
